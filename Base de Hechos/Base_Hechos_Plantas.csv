@@ -1,0 +1,289 @@
+ID,Forma Hoja,Color Hoja,Color Flor,Textura Hoja,Frutos,Planta
+0,ovaladas,verde oscuro,un solo color,lisa,frutos visibles,Naranjo
+1,ovaladas,verde oscuro,un solo color,lisa,frutos no visibles,Ligustrum
+2,ovaladas,verde oscuro,un solo color,rugosa,frutos visibles,Cafeto
+3,ovaladas,verde oscuro,un solo color,rugosa,frutos no visibles,Menta
+4,ovaladas,verde oscuro,un solo color,vellosa,frutos visibles,
+5,ovaladas,verde oscuro,un solo color,vellosa,frutos no visibles,Consuelda
+6,ovaladas,verde oscuro,un solo color,espinosa,frutos visibles,
+7,ovaladas,verde oscuro,un solo color,espinosa,frutos no visibles,
+8,ovaladas,verde oscuro,colores variantes,lisa,frutos visibles,Lantana 
+9,ovaladas,verde oscuro,colores variantes,lisa,frutos no visibles,Gaillardia
+10,ovaladas,verde oscuro,colores variantes,rugosa,frutos visibles,Dill
+11,ovaladas,verde oscuro,colores variantes,rugosa,frutos no visibles,Cilantro
+12,ovaladas,verde oscuro,colores variantes,vellosa,frutos visibles,Peppermint
+13,ovaladas,verde oscuro,colores variantes,vellosa,frutos no visibles,Lemongrass
+14,ovaladas,verde oscuro,colores variantes,espinosa,frutos visibles,Chives
+15,ovaladas,verde oscuro,colores variantes,espinosa,frutos no visibles,Fennel
+16,ovaladas,verde oscuro,sin flores visibles,lisa,frutos visibles,Tarragon
+17,ovaladas,verde oscuro,sin flores visibles,lisa,frutos no visibles,Marjoram
+18,ovaladas,verde oscuro,sin flores visibles,rugosa,frutos visibles,Bay Laurel
+19,ovaladas,verde oscuro,sin flores visibles,rugosa,frutos no visibles,Stevia
+20,ovaladas,verde oscuro,sin flores visibles,vellosa,frutos visibles,Eucalyptus
+21,ovaladas,verde oscuro,sin flores visibles,vellosa,frutos no visibles,Catnip
+22,ovaladas,verde oscuro,sin flores visibles,espinosa,frutos visibles,Hyssop
+23,ovaladas,verde oscuro,sin flores visibles,espinosa,frutos no visibles,Spearmint
+24,ovaladas,verde claro,un solo color,lisa,frutos visibles,Hibiscus
+25,ovaladas,verde claro,un solo color,lisa,frutos no visibles,Jasmine
+26,ovaladas,verde claro,un solo color,rugosa,frutos visibles,Sunflower
+27,ovaladas,verde claro,un solo color,rugosa,frutos no visibles,Dandelion
+28,ovaladas,verde claro,un solo color,vellosa,frutos visibles,Marigold
+29,ovaladas,verde claro,un solo color,vellosa,frutos no visibles,Pansy
+30,ovaladas,verde claro,un solo color,espinosa,frutos visibles,Primrose
+31,ovaladas,verde claro,un solo color,espinosa,frutos no visibles,Foxglove
+32,ovaladas,verde claro,colores variantes,lisa,frutos visibles,Yarrow
+33,ovaladas,verde claro,colores variantes,lisa,frutos no visibles,Snapdragon
+34,ovaladas,verde claro,colores variantes,rugosa,frutos visibles,Begonia
+35,ovaladas,verde claro,colores variantes,rugosa,frutos no visibles,Petunia
+36,ovaladas,verde claro,colores variantes,vellosa,frutos visibles,Zinnia
+37,ovaladas,verde claro,colores variantes,vellosa,frutos no visibles,Aster
+38,ovaladas,verde claro,colores variantes,espinosa,frutos visibles,Azalea
+39,ovaladas,verde claro,colores variantes,espinosa,frutos no visibles,Dahlia
+40,ovaladas,verde claro,sin flores visibles,lisa,frutos visibles,Daisy
+41,ovaladas,verde claro,sin flores visibles,lisa,frutos no visibles,Violet
+42,ovaladas,verde claro,sin flores visibles,rugosa,frutos visibles,Crocus
+43,ovaladas,verde claro,sin flores visibles,rugosa,frutos no visibles,Tulip
+44,ovaladas,verde claro,sin flores visibles,vellosa,frutos visibles,Lily
+45,ovaladas,verde claro,sin flores visibles,vellosa,frutos no visibles,Orchid
+46,ovaladas,verde claro,sin flores visibles,espinosa,frutos visibles,Cactus
+47,ovaladas,verde claro,sin flores visibles,espinosa,frutos no visibles,Bamboo
+48,ovaladas,amarillento,un solo color,lisa,frutos visibles,Fern
+49,ovaladas,amarillento,un solo color,lisa,frutos no visibles,Palm
+50,ovaladas,amarillento,un solo color,rugosa,frutos visibles,Maple
+51,ovaladas,amarillento,un solo color,rugosa,frutos no visibles,Oak
+52,ovaladas,amarillento,un solo color,vellosa,frutos visibles,Pine
+53,ovaladas,amarillento,un solo color,vellosa,frutos no visibles,Cypress
+54,ovaladas,amarillento,un solo color,espinosa,frutos visibles,Birch
+55,ovaladas,amarillento,un solo color,espinosa,frutos no visibles,Elm
+56,ovaladas,amarillento,colores variantes,lisa,frutos visibles,Willow
+57,ovaladas,amarillento,colores variantes,lisa,frutos no visibles,Holly
+58,ovaladas,amarillento,colores variantes,rugosa,frutos visibles,Spruce
+59,ovaladas,amarillento,colores variantes,rugosa,frutos no visibles,Alder
+60,ovaladas,amarillento,colores variantes,vellosa,frutos visibles,Aspen
+61,ovaladas,amarillento,colores variantes,vellosa,frutos no visibles,Beech
+62,ovaladas,amarillento,colores variantes,espinosa,frutos visibles,Chestnut
+63,ovaladas,amarillento,colores variantes,espinosa,frutos no visibles,Cedar
+64,ovaladas,amarillento,sin flores visibles,lisa,frutos visibles,Fig
+65,ovaladas,amarillento,sin flores visibles,lisa,frutos no visibles,Mango
+66,ovaladas,amarillento,sin flores visibles,rugosa,frutos visibles,Papaya
+67,ovaladas,amarillento,sin flores visibles,rugosa,frutos no visibles,Peach
+68,ovaladas,amarillento,sin flores visibles,vellosa,frutos visibles,Pear
+69,ovaladas,amarillento,sin flores visibles,vellosa,frutos no visibles,Apple
+70,ovaladas,amarillento,sin flores visibles,espinosa,frutos visibles,Banana
+71,ovaladas,amarillento,sin flores visibles,espinosa,frutos no visibles,Grapevine
+72,lanceoladas,verde oscuro,un solo color,lisa,frutos visibles,Strawberry
+73,lanceoladas,verde oscuro,un solo color,lisa,frutos no visibles,Blueberry
+74,lanceoladas,verde oscuro,un solo color,rugosa,frutos visibles,Blackberry
+75,lanceoladas,verde oscuro,un solo color,rugosa,frutos no visibles,Raspberry
+76,lanceoladas,verde oscuro,un solo color,vellosa,frutos visibles,Tomato
+77,lanceoladas,verde oscuro,un solo color,vellosa,frutos no visibles,Bell Pepper
+78,lanceoladas,verde oscuro,un solo color,espinosa,frutos visibles,Cucumber
+79,lanceoladas,verde oscuro,un solo color,espinosa,frutos no visibles,Pumpkin
+80,lanceoladas,verde oscuro,colores variantes,lisa,frutos visibles,Squash
+81,lanceoladas,verde oscuro,colores variantes,lisa,frutos no visibles,Watermelon
+82,lanceoladas,verde oscuro,colores variantes,rugosa,frutos visibles,Cantaloupe
+83,lanceoladas,verde oscuro,colores variantes,rugosa,frutos no visibles,Mushroom
+84,lanceoladas,verde oscuro,colores variantes,vellosa,frutos visibles,Chanterelle
+85,lanceoladas,verde oscuro,colores variantes,vellosa,frutos no visibles,Shiitake
+86,lanceoladas,verde oscuro,colores variantes,espinosa,frutos visibles,Portobello
+87,lanceoladas,verde oscuro,colores variantes,espinosa,frutos no visibles,Morel
+88,lanceoladas,verde oscuro,sin flores visibles,lisa,frutos visibles,Honeysuckle
+89,lanceoladas,verde oscuro,sin flores visibles,lisa,frutos no visibles,Ginseng
+90,lanceoladas,verde oscuro,sin flores visibles,rugosa,frutos visibles,Comfrey
+91,lanceoladas,verde oscuro,sin flores visibles,rugosa,frutos no visibles,Turmeric
+92,lanceoladas,verde oscuro,sin flores visibles,vellosa,frutos visibles,St. John's Wort
+93,lanceoladas,verde oscuro,sin flores visibles,vellosa,frutos no visibles,Chili
+94,lanceoladas,verde oscuro,sin flores visibles,espinosa,frutos visibles,Thyme
+95,lanceoladas,verde oscuro,sin flores visibles,espinosa,frutos no visibles,Chervil
+96,lanceoladas,verde claro,un solo color,lisa,frutos visibles,Hibiscus
+97,lanceoladas,verde claro,un solo color,lisa,frutos no visibles,Jasmine
+98,lanceoladas,verde claro,un solo color,rugosa,frutos visibles,Sunflower
+99,lanceoladas,verde claro,un solo color,rugosa,frutos no visibles,Dandelion
+100,lanceoladas,verde claro,un solo color,vellosa,frutos visibles,Juniper
+101,lanceoladas,verde claro,un solo color,vellosa,frutos no visibles,Yew
+102,lanceoladas,verde claro,un solo color,espinosa,frutos visibles,Hemlock
+103,lanceoladas,verde claro,un solo color,espinosa,frutos no visibles,Hickory
+104,lanceoladas,verde claro,colores variantes,lisa,frutos visibles,Redbud
+105,lanceoladas,verde claro,colores variantes,lisa,frutos no visibles,Dogwood
+106,lanceoladas,verde claro,colores variantes,rugosa,frutos visibles,Buttercup
+107,lanceoladas,verde claro,colores variantes,rugosa,frutos no visibles,Clover
+108,lanceoladas,verde claro,colores variantes,vellosa,frutos visibles,Milkweed
+109,lanceoladas,verde claro,colores variantes,vellosa,frutos no visibles,Goldenrod
+110,lanceoladas,verde claro,colores variantes,espinosa,frutos visibles,Aloe Vera
+111,lanceoladas,verde claro,colores variantes,espinosa,frutos no visibles,Basil
+112,lanceoladas,verde claro,sin flores visibles,lisa,frutos visibles,Lavender
+113,lanceoladas,verde claro,sin flores visibles,lisa,frutos no visibles,Mint
+114,lanceoladas,verde claro,sin flores visibles,rugosa,frutos visibles,Rosemary
+115,lanceoladas,verde claro,sin flores visibles,rugosa,frutos no visibles,Thyme
+116,lanceoladas,verde claro,sin flores visibles,vellosa,frutos visibles,Sage
+117,lanceoladas,verde claro,sin flores visibles,vellosa,frutos no visibles,Oregano
+118,lanceoladas,verde claro,sin flores visibles,espinosa,frutos visibles,Chamomile
+119,lanceoladas,verde claro,sin flores visibles,espinosa,frutos no visibles,Parsley
+120,lanceoladas,amarillento,un solo color,lisa,frutos visibles,Dill
+121,lanceoladas,amarillento,un solo color,lisa,frutos no visibles,Cilantro
+122,lanceoladas,amarillento,un solo color,rugosa,frutos visibles,Peppermint
+123,lanceoladas,amarillento,un solo color,rugosa,frutos no visibles,Lemongrass
+124,lanceoladas,amarillento,un solo color,vellosa,frutos visibles,Chives
+125,lanceoladas,amarillento,un solo color,vellosa,frutos no visibles,Fennel
+126,lanceoladas,amarillento,un solo color,espinosa,frutos visibles,Tarragon
+127,lanceoladas,amarillento,un solo color,espinosa,frutos no visibles,Marjoram
+128,lanceoladas,amarillento,colores variantes,lisa,frutos visibles,Bay Laurel
+129,lanceoladas,amarillento,colores variantes,lisa,frutos no visibles,Stevia
+130,lanceoladas,amarillento,colores variantes,rugosa,frutos visibles,Eucalyptus
+131,lanceoladas,amarillento,colores variantes,rugosa,frutos no visibles,Catnip
+132,lanceoladas,amarillento,colores variantes,vellosa,frutos visibles,Hyssop
+133,lanceoladas,amarillento,colores variantes,vellosa,frutos no visibles,Spearmint
+134,lanceoladas,amarillento,colores variantes,espinosa,frutos visibles,Hibiscus
+135,lanceoladas,amarillento,colores variantes,espinosa,frutos no visibles,Jasmine
+136,lanceoladas,amarillento,sin flores visibles,lisa,frutos visibles,Sunflower
+137,lanceoladas,amarillento,sin flores visibles,lisa,frutos no visibles,Dandelion
+138,lanceoladas,amarillento,sin flores visibles,rugosa,frutos visibles,Marigold
+139,lanceoladas,amarillento,sin flores visibles,rugosa,frutos no visibles,Pansy
+140,lanceoladas,amarillento,sin flores visibles,vellosa,frutos visibles,Primrose
+141,lanceoladas,amarillento,sin flores visibles,vellosa,frutos no visibles,Foxglove
+142,lanceoladas,amarillento,sin flores visibles,espinosa,frutos visibles,Yarrow
+143,lanceoladas,amarillento,sin flores visibles,espinosa,frutos no visibles,Snapdragon
+144,corazonadas,verde oscuro,un solo color,lisa,frutos visibles,Begonia
+145,corazonadas,verde oscuro,un solo color,lisa,frutos no visibles,Petunia
+146,corazonadas,verde oscuro,un solo color,rugosa,frutos visibles,Zinnia
+147,corazonadas,verde oscuro,un solo color,rugosa,frutos no visibles,Aster
+148,corazonadas,verde oscuro,un solo color,vellosa,frutos visibles,Azalea
+149,corazonadas,verde oscuro,un solo color,vellosa,frutos no visibles,Dahlia
+150,corazonadas,verde oscuro,un solo color,espinosa,frutos visibles,Daisy
+151,corazonadas,verde oscuro,un solo color,espinosa,frutos no visibles,Violet
+152,corazonadas,verde oscuro,colores variantes,lisa,frutos visibles,Crocus
+153,corazonadas,verde oscuro,colores variantes,lisa,frutos no visibles,Tulip
+154,corazonadas,verde oscuro,colores variantes,rugosa,frutos visibles,Lily
+155,corazonadas,verde oscuro,colores variantes,rugosa,frutos no visibles,Orchid
+156,corazonadas,verde oscuro,colores variantes,vellosa,frutos visibles,Cactus
+157,corazonadas,verde oscuro,colores variantes,vellosa,frutos no visibles,Bamboo
+158,corazonadas,verde oscuro,colores variantes,espinosa,frutos visibles,Fern
+159,corazonadas,verde oscuro,colores variantes,espinosa,frutos no visibles,Palm
+160,corazonadas,verde oscuro,sin flores visibles,lisa,frutos visibles,Maple
+161,corazonadas,verde oscuro,sin flores visibles,lisa,frutos no visibles,Oak
+162,corazonadas,verde oscuro,sin flores visibles,rugosa,frutos visibles,Pine
+163,corazonadas,verde oscuro,sin flores visibles,rugosa,frutos no visibles,Cypress
+164,corazonadas,verde oscuro,sin flores visibles,vellosa,frutos visibles,Birch
+165,corazonadas,verde oscuro,sin flores visibles,vellosa,frutos no visibles,Elm
+166,corazonadas,verde oscuro,sin flores visibles,espinosa,frutos visibles,Willow
+167,corazonadas,verde oscuro,sin flores visibles,espinosa,frutos no visibles,Holly
+168,corazonadas,verde claro,un solo color,lisa,frutos visibles,Spruce
+169,corazonadas,verde claro,un solo color,lisa,frutos no visibles,Alder
+170,corazonadas,verde claro,un solo color,rugosa,frutos visibles,Aspen
+171,corazonadas,verde claro,un solo color,rugosa,frutos no visibles,Beech
+172,corazonadas,verde claro,un solo color,vellosa,frutos visibles,Chestnut
+173,corazonadas,verde claro,un solo color,vellosa,frutos no visibles,Cedar
+174,corazonadas,verde claro,un solo color,espinosa,frutos visibles,Fig
+175,corazonadas,verde claro,un solo color,espinosa,frutos no visibles,Mango
+176,corazonadas,verde claro,colores variantes,lisa,frutos visibles,Papaya
+177,corazonadas,verde claro,colores variantes,lisa,frutos no visibles,Peach
+178,corazonadas,verde claro,colores variantes,rugosa,frutos visibles,Pear
+179,corazonadas,verde claro,colores variantes,rugosa,frutos no visibles,Apple
+180,corazonadas,verde claro,colores variantes,vellosa,frutos visibles,Banana
+181,corazonadas,verde claro,colores variantes,vellosa,frutos no visibles,Grapevine
+182,corazonadas,verde claro,colores variantes,espinosa,frutos visibles,Strawberry
+183,corazonadas,verde claro,colores variantes,espinosa,frutos no visibles,Blueberry
+184,corazonadas,verde claro,sin flores visibles,lisa,frutos visibles,Blackberry
+185,corazonadas,verde claro,sin flores visibles,lisa,frutos no visibles,Raspberry
+186,corazonadas,verde claro,sin flores visibles,rugosa,frutos visibles,Tomato
+187,corazonadas,verde claro,sin flores visibles,rugosa,frutos no visibles,Bell Pepper
+188,corazonadas,verde claro,sin flores visibles,vellosa,frutos visibles,Cucumber
+189,corazonadas,verde claro,sin flores visibles,vellosa,frutos no visibles,Pumpkin
+190,corazonadas,verde claro,sin flores visibles,espinosa,frutos visibles,Squash
+191,corazonadas,verde claro,sin flores visibles,espinosa,frutos no visibles,Watermelon
+192,corazonadas,amarillento,un solo color,lisa,frutos visibles,Cantaloupe
+193,corazonadas,amarillento,un solo color,lisa,frutos no visibles,Mushroom
+194,corazonadas,amarillento,un solo color,rugosa,frutos visibles,Chanterelle
+195,corazonadas,amarillento,un solo color,rugosa,frutos no visibles,Shiitake
+196,corazonadas,amarillento,un solo color,vellosa,frutos visibles,Portobello
+197,corazonadas,amarillento,un solo color,vellosa,frutos no visibles,Morel
+198,corazonadas,amarillento,un solo color,espinosa,frutos visibles,Honeysuckle
+199,corazonadas,amarillento,un solo color,espinosa,frutos no visibles,Magnolia
+200,corazonadas,amarillento,colores variantes,lisa,frutos visibles,Oleander  
+201,corazonadas,amarillento,colores variantes,lisa,frutos no visibles,Poinsettia  
+202,corazonadas,amarillento,colores variantes,rugosa,frutos visibles,Gardenia  
+203,corazonadas,amarillento,colores variantes,rugosa,frutos no visibles,Camellia  
+204,corazonadas,amarillento,colores variantes,vellosa,frutos visibles,Ivy  
+205,corazonadas,amarillento,colores variantes,vellosa,frutos no visibles,Lilac  
+206,corazonadas,amarillento,colores variantes,espinosa,frutos visibles,Geranium  
+207,corazonadas,amarillento,colores variantes,espinosa,frutos no visibles,Bougainvillea  
+208,corazonadas,amarillento,sin flores visibles,lisa,frutos visibles,Rhododendron  
+209,corazonadas,amarillento,sin flores visibles,lisa,frutos no visibles,Wisteria  
+210,corazonadas,amarillento,sin flores visibles,rugosa,frutos visibles,Juniper  
+211,corazonadas,amarillento,sin flores visibles,rugosa,frutos no visibles,Yew  
+212,corazonadas,amarillento,sin flores visibles,vellosa,frutos visibles,Hemlock  
+213,corazonadas,amarillento,sin flores visibles,vellosa,frutos no visibles,Hickory  
+214,corazonadas,amarillento,sin flores visibles,espinosa,frutos visibles,Redbud  
+215,corazonadas,amarillento,sin flores visibles,espinosa,frutos no visibles,Dogwood  
+216,alargadas y estrecha,verde oscuro,un solo color,lisa,frutos visibles,Buttercup  
+217,alargadas y estrecha,verde oscuro,un solo color,lisa,frutos no visibles,Clover  
+218,alargadas y estrecha,verde oscuro,un solo color,rugosa,frutos visibles,Milkweed  
+219,alargadas y estrecha,verde oscuro,un solo color,rugosa,frutos no visibles,Goldenrod  
+220,alargadas y estrecha,verde oscuro,un solo color,vellosa,frutos visibles,Aloe Vera  
+221,alargadas y estrecha,verde oscuro,un solo color,vellosa,frutos no visibles,Basil  
+222,alargadas y estrecha,verde oscuro,un solo color,espinosa,frutos visibles,Lavender  
+223,alargadas y estrecha,verde oscuro,un solo color,espinosa,frutos no visibles,Mint  
+224,alargadas y estrecha,verde oscuro,colores variantes,lisa,frutos visibles,Rosemary  
+225,alargadas y estrecha,verde oscuro,colores variantes,lisa,frutos no visibles,Thyme  
+226,alargadas y estrecha,verde oscuro,colores variantes,rugosa,frutos visibles,Sage  
+227,alargadas y estrecha,verde oscuro,colores variantes,rugosa,frutos no visibles,Oregano  
+228,alargadas y estrecha,verde oscuro,colores variantes,vellosa,frutos visibles,Chamomile  
+229,alargadas y estrecha,verde oscuro,colores variantes,vellosa,frutos no visibles,Parsley  
+230,alargadas y estrecha,verde oscuro,colores variantes,espinosa,frutos visibles,Dill  
+231,alargadas y estrecha,verde oscuro,colores variantes,espinosa,frutos no visibles,Cilantro  
+232,alargadas y estrecha,verde oscuro,sin flores visibles,lisa,frutos visibles,Peppermint  
+233,alargadas y estrecha,verde oscuro,sin flores visibles,lisa,frutos no visibles,Lemongrass  
+234,alargadas y estrecha,verde oscuro,sin flores visibles,rugosa,frutos visibles,Chives  
+235,alargadas y estrecha,verde oscuro,sin flores visibles,rugosa,frutos no visibles,Fennel  
+236,alargadas y estrecha,verde oscuro,sin flores visibles,vellosa,frutos visibles,Tarragon  
+237,alargadas y estrecha,verde oscuro,sin flores visibles,vellosa,frutos no visibles,Marjoram  
+238,alargadas y estrecha,verde oscuro,sin flores visibles,espinosa,frutos visibles,Bay Laurel  
+239,alargadas y estrecha,verde oscuro,sin flores visibles,espinosa,frutos no visibles,Stevia  
+240,alargadas y estrecha,verde claro,un solo color,lisa,frutos visibles,Eucalyptus  
+241,alargadas y estrecha,verde claro,un solo color,lisa,frutos no visibles,Catnip  
+242,alargadas y estrecha,verde claro,un solo color,rugosa,frutos visibles,Hyssop  
+243,alargadas y estrecha,verde claro,un solo color,rugosa,frutos no visibles,Spearmint  
+244,alargadas y estrecha,verde claro,un solo color,vellosa,frutos visibles,Hibiscus  
+245,alargadas y estrecha,verde claro,un solo color,vellosa,frutos no visibles,Jasmine  
+246,alargadas y estrecha,verde claro,un solo color,espinosa,frutos visibles,Sunflower  
+247,alargadas y estrecha,verde claro,un solo color,espinosa,frutos no visibles,Dandelion  
+248,alargadas y estrecha,verde claro,colores variantes,lisa,frutos visibles,Marigold  
+249,alargadas y estrecha,verde claro,colores variantes,lisa,frutos no visibles,Pansy  
+250,alargadas y estrecha,verde claro,colores variantes,rugosa,frutos visibles,Primrose  
+251,alargadas y estrecha,verde claro,colores variantes,rugosa,frutos no visibles,Foxglove  
+252,alargadas y estrecha,verde claro,colores variantes,vellosa,frutos visibles,Yarrow  
+253,alargadas y estrecha,verde claro,colores variantes,vellosa,frutos no visibles,Snapdragon  
+254,alargadas y estrecha,verde claro,colores variantes,espinosa,frutos visibles,Begonia  
+255,alargadas y estrecha,verde claro,colores variantes,espinosa,frutos no visibles,Petunia  
+256,alargadas y estrecha,verde claro,sin flores visibles,lisa,frutos visibles,Zinnia  
+257,alargadas y estrecha,verde claro,sin flores visibles,lisa,frutos no visibles,Aster  
+258,alargadas y estrecha,verde claro,sin flores visibles,rugosa,frutos visibles,Azalea  
+259,alargadas y estrecha,verde claro,sin flores visibles,rugosa,frutos no visibles,Dahlia  
+260,alargadas y estrecha,verde claro,sin flores visibles,vellosa,frutos visibles,Daisy  
+261,alargadas y estrecha,verde claro,sin flores visibles,vellosa,frutos no visibles,Violet  
+262,alargadas y estrecha,verde claro,sin flores visibles,espinosa,frutos visibles,Crocus  
+263,alargadas y estrecha,verde claro,sin flores visibles,espinosa,frutos no visibles,Tulip  
+264,alargadas y estrecha,amarillento,un solo color,lisa,frutos visibles,Lily  
+265,alargadas y estrecha,amarillento,un solo color,lisa,frutos no visibles,Orchid  
+266,alargadas y estrecha,amarillento,un solo color,rugosa,frutos visibles,Cactus  
+267,alargadas y estrecha,amarillento,un solo color,rugosa,frutos no visibles,Bamboo  
+268,alargadas y estrecha,amarillento,un solo color,vellosa,frutos visibles,Fern  
+269,alargadas y estrecha,amarillento,un solo color,vellosa,frutos no visibles,Palm  
+270,alargadas y estrecha,amarillento,un solo color,espinosa,frutos visibles,Maple  
+271,alargadas y estrecha,amarillento,un solo color,espinosa,frutos no visibles,Oak  
+272,alargadas y estrecha,amarillento,colores variantes,lisa,frutos visibles,Pine  
+273,alargadas y estrecha,amarillento,colores variantes,lisa,frutos no visibles,Cypress  
+274,alargadas y estrecha,amarillento,colores variantes,rugosa,frutos visibles,Birch  
+275,alargadas y estrecha,amarillento,colores variantes,rugosa,frutos no visibles,Elm  
+276,alargadas y estrecha,amarillento,colores variantes,vellosa,frutos visibles,Willow  
+277,alargadas y estrecha,amarillento,colores variantes,vellosa,frutos no visibles,Holly  
+278,alargadas y estrecha,amarillento,colores variantes,espinosa,frutos visibles,Spruce  
+279,alargadas y estrecha,amarillento,colores variantes,espinosa,frutos no visibles,Alder  
+280,alargadas y estrecha,amarillento,sin flores visibles,lisa,frutos visibles,Aspen  
+281,alargadas y estrecha,amarillento,sin flores visibles,lisa,frutos no visibles,Beech  
+282,alargadas y estrecha,amarillento,sin flores visibles,rugosa,frutos visibles,Chestnut  
+283,alargadas y estrecha,amarillento,sin flores visibles,rugosa,frutos no visibles,Cedar  
+284,alargadas y estrecha,amarillento,sin flores visibles,vellosa,frutos visibles,Fig  
+285,alargadas y estrecha,amarillento,sin flores visibles,vellosa,frutos no visibles,Mango  
+286,alargadas y estrecha,amarillento,sin flores visibles,espinosa,frutos visibles,Papaya  
+287,alargadas y estrecha,amarillento,sin flores visibles,espinosa,frutos no visibles,Peach
